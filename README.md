@@ -2,7 +2,7 @@
   <img src="https://imgur.com/EKLkMVm.png" />
 </p>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=HEY+THERE+%2CWELCOME+TO+MY+PROFILE;MY+NAME+IS+IQTIAR+MAHIM+(MahimJan)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=HEY+THERE+%2CWELCOME+TO+MY+PROFILE;MY+NAME+IS+IQTIAR+MAHIM" alt="Typing SVG" /></a>
 
 <code>I'm a Student at Computer Science and Engineering. 😎</code>
 <code>I love programming. ❤</code>
